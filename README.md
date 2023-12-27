@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amisha-singh12
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning css  along with dsa
+- 🌱 I’m currently learning dsa and improving my development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
