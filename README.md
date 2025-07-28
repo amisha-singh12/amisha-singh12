@@ -1,4 +1,5 @@
 # 👋 Hey there! I'm Amisha
+
 A curious mind navigating the world of **development**, **machine learning**, and **cybersecurity**.
 🎓 I'm currently pursuing B.Tech in CSE from **AITM, Varanasi** (2022–2026), and I’m passionate about building impactful and resilient systems. Whether it’s developing a **Git-like version control tool** in the cloud or analyzing **VoIP traffic for cyber threats**, I love translating real-world ideas into clean, working code.Outside of code, you’ll find me strategizing over a chessboard — I’m a **state-level chess player**. And come weekend? You’ll catch me in **LeetCode contests**, pushing my limits. For me, tech isn’t just about solving problems — it’s about deeply understanding them and finding elegant solutions that matter.
 ---
@@ -14,6 +15,7 @@ A curious mind navigating the world of **development**, **machine learning**, an
 
 **Soft Skills**  
 → Communication, Mentorship, Leadership, Adaptability
+
 ---
 ## 🛠️ My Work in Action
 ### 🔐 [RepoForge](https://github.com/amisha-singh12/RepoForge)  
@@ -47,15 +49,6 @@ Guided students through Java, SQL, and DSA — with hands-on projects and person
 - 🎓 President, **IIC Students Club**, AITM  
 - ♟️ **State-Level Chess Player**, Uttar Pradesh – 2023  
 ---
-## 📫 Let's Connect
-I'm always up for a chat on tech, mentorship, or ideas worth building.
-
-- 📬 [Email](mailto:singhamisha1572@gmail.com)  
-- 👔 [LinkedIn](https://linkedin.com/in/amisha-singh-74490b315)  
-- 💻 [GitHub](https://github.com/amisha-singh12)  
-- 📘 [LeetCode](https://leetcode.com/amisha002singh/)  
-- 📗 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/singhamisha/)  
-- 🌐 [Portfolio](https://amisha-techfolio.netlify.app/)
 
 > *“Code is the closest thing we have to magic — and I’m here to learn every spell.”* ✨✨✨  
 
