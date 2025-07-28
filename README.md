@@ -1,7 +1,10 @@
 # 👋 Hey there! I'm Amisha
+<p style="font-size: 14px; color: #6e6e6e; line-height: 1.6;">
+→ A curious mind navigating the world of <b>development</b>, <b>machine learning</b>, and <b>cybersecurity</b>.<br>
+🎓 I'm currently pursuing B.Tech in CSE from <b>AITM, Varanasi</b> (2022–2026), and I’m passionate about building impactful and resilient systems. Whether it’s developing a <b>Git-like version control tool</b> in the cloud or analyzing <b>VoIP traffic for cyber threats</b>, I love translating real-world ideas into clean, working code.<br>
+Outside of code, you’ll find me strategizing over a chessboard — I’m a <b>state-level chess player</b>. And come weekend? You’ll catch me in <b>LeetCode contests</b>, pushing my limits. For me, tech isn’t just about solving problems — it’s about deeply understanding them and finding elegant solutions that matter.
+</p>
 
-A curious mind navigating the world of **development**, **machine learning**, and **cybersecurity**.
-🎓 I'm currently pursuing B.Tech in CSE from **AITM, Varanasi** (2022–2026), and I’m passionate about building impactful and resilient systems. Whether it’s developing a **Git-like version control tool** in the cloud or analyzing **VoIP traffic for cyber threats**, I love translating real-world ideas into clean, working code.Outside of code, you’ll find me strategizing over a chessboard — I’m a **state-level chess player**. And come weekend? You’ll catch me in **LeetCode contests**, pushing my limits. For me, tech isn’t just about solving problems — it’s about deeply understanding them and finding elegant solutions that matter.
 ---
 ## 🚀 Tech Stack & Toolbox
 **Languages**  
