@@ -45,7 +45,7 @@ Guided students through Java, SQL, and DSA — with hands-on projects and person
 ## 📜 Credentials & Certifications
 - 🛡️ [Google Cybersecurity Professional Certificate](https://coursera.org/share/23fc4ee76a8f80f2d262ad07b4a6f230)  
 - ☁️ [Google Cloud Skills Boost (Profile)](https://www.cloudskillsboost.google/public_profiles/dfc9bf24-45a1-4ab9-ad68-e11c5233dad5)  
-- 🧠 Multiple hands-on labs with Pub/Sub, Vertex AI, Natural Language API, and more
+- 🧠 [ Gen AI Exchange Program by Google Cloud, powered by Hack2skill](https://certificate.hack2skill.com/user/genai10/2025H2S04GENAI-A1000482)
 ---
 ## 🏆 Highlights Beyond Code
 - 🧩 Top **22.8% on LeetCode** — Contest rating: 1614  
